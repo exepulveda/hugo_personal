@@ -10,31 +10,27 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "Metaheuristics",
+    "Geometallurgy",
+    "High Performance Computing"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Geometallurgy - Mining Engineering"
+  institution = "The University of Adelaide"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BSc in Computer Science"
+  institution = "University of Chile"
+  year = 1996
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Exequiel Sepúlveda is a postdoctoral researcher fellow at the School of Civil, Environmental and Mining Engineering in The University of Adelaide. His research interests include machine learning, geostatistics, metaheuristics optimisation, high performance computing and digital mining. He loves programming .
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+After he completed his studies in Computer Science, Exequiel had almost 20 years experience in software engineering, working in industries in the financial, insurances and energy sectors, among others. That experience brought him to work in the Mining School at The University of Chile, where his became a researcher assistant in the ALGES laboratory. That was the beginning of his interest of doing a PhD in geometallurgy.
