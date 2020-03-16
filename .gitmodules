@@ -4,3 +4,7 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/exepulveda/exepulveda.github.io.git
+[submodule "exepulveda.github.io"]
+	path = exepulveda.github.io
+	url = https://github.com/exepulveda/exepulveda.github.io.git
+	branch = master
